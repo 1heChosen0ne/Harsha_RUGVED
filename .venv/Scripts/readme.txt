@@ -1,0 +1,1 @@
+Hello, this is my new proper git commit!
